@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572908947396",
+    "firebase_url": "https://tran-app.firebaseio.com",
+    "project_id": "tran-app",
+    "storage_bucket": "tran-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572908947396:android:ff64b3cc0579bc51514691",
+        "android_client_info": {
+          "package_name": "com.teamnotfound.tranapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572908947396-692lvm4nk1lqbbrlmhkbbckdo10e830l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamnotfound.tranapp",
+            "certificate_hash": "4fa244de867e83e9740027568b18282a2491a354"
+          }
+        },
+        {
+          "client_id": "572908947396-dm92evuie8rk1ue77u5krai4cvffovdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl_PYaeGF4Nu9X-I-4w1rOB191lUVB8es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572908947396-dm92evuie8rk1ue77u5krai4cvffovdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
